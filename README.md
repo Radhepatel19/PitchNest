@@ -13,20 +13,26 @@ Easily find ideas using search and category filters.
 Discover popular ideas based on user engagement.
 👤 User Profiles
 Manage your ideas and personal profile.
+
+
 🧑‍💻 Tech Stack
 Frontend: Android Studio (Java/Kotlin) / Flutter
 Backend: Firebase, Gemini API
 Database: Firebase (Firestore / Realtime Database)
 Cloud: Cloudinary / Cloud Storage
+
+
 🎯 Use Cases
 Students looking for project or startup ideas
 Entrepreneurs exploring new concepts
 Users sharing innovative thoughts
+
 📱 App Modules
 Authentication (Login / Register / Forgot Password)
 Home Screen (Trending Ideas & Categories)
 Add Idea Screen
 Profile Management
+
 🔒 Security
 Secure authentication system
 Safe data handling and storage
